@@ -4,7 +4,7 @@
 
 Pequeno projeto feito durante meus estudos de Flutter.
 
-Foi desenvolvido especificamente, durante o curso do Maximilian Schwarzmüller, Flutter & Dart - The Complete Guide, disponível na Udemy.
+Foi desenvolvido especificamente, durante o curso do Maximilian Schwarzmüller, "Flutter & Dart - The Complete Guide", disponível na Udemy.
 
 ## Sobre o Aplicativo
 
@@ -17,4 +17,4 @@ Para dar uma sensação melhor de que o dado realmente está rolando, foi utiliz
 ## Informações Extras
 
 - Este aplicativo foi testado apenas no Android
-- As imagens do dado foram diponiblizadas através do curso Flutter & Dart - The Complete Guide
+- As imagens do dado foram diponiblizadas através do curso "Flutter & Dart - The Complete Guide"
