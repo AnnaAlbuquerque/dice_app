@@ -3,7 +3,7 @@
 
 Small project done during my Flutter studies. 
 
-Specifically following Maximilian Schwarzmüller course Flutter & Dart - The Complete Guide available on Udemy.
+Specifically following Maximilian Schwarzmüller course "Flutter & Dart - The Complete Guide" available on Udemy.
 
 ## About the Application
 
@@ -16,4 +16,4 @@ Animation is used to give a better feeling of an actual dice rolling.
 ## Extra Information
 
 - This application were tested only on Android. 
-- Dice images used were available at Flutter & Dart - The Complete Guide course.
+- Dice images used were available at "Flutter & Dart - The Complete Guide" course.
